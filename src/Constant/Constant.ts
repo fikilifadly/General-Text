@@ -3,6 +3,7 @@ const Constant = {
     PRIMARY: "PRIMARY",
     SECONDARY: "SECONDARY",
     TEXT: "TEXT",
+    CUSTOM_TEXT: "CUSTOM_TEXT",
     DETAIL_TEXT: "DETAIL_TEXT",
   },
   COLOR: {
@@ -13,6 +14,7 @@ const Constant = {
     GREEN: "#40C057",
     YELLOW: "#FAB005",
   },
+  EMPTY_STRING: '',
 };
 
 export default Constant

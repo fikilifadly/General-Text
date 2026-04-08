@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`GeneralText > matches snapshot for PRIMARY 1`] = `
+<h1
+  style="margin: 0px; padding: 0px; font-family: inherit; font-size: 32px; font-weight: 700; line-height: 1.2; color: rgb(76, 110, 245);"
+>
+  Snapshot Primary
+</h1>
+`;
